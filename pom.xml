@@ -23,11 +23,11 @@
 			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
-<!-- 		<dependency> -->
-<!-- 			<groupId>com.corejsf</groupId> -->
-<!-- 			<artifactId>core-jsf-chapter09-composite-common</artifactId> -->
-<!-- 			<version>0.0.1-SNAPSHOT</version> -->
-<!-- 		</dependency> -->
+		<dependency>
+			<groupId>com.corejsf</groupId>
+			<artifactId>core-jsf-chapter09-composite-common</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
